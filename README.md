@@ -1,5 +1,13 @@
 # Gemini PDA Tips
 
+## Hardware
+
+### Notifications
+
+**Pebble 2 Watch** I use a Pebble 2 watch for notifications. It works great with the Gemini and also has apps that enable dial without opening the device etc. 
+
+**Sony SBH54 headset** Additionally the Sony [SBH54 bluetooth headset](https://www.amazon.co.uk/Sony-Stereo-Smart-Bluetooth-Headset-Black/dp/B0154G9CYY) (actually just calling it a headset does it an injustice). It provides a great way to recieve and interact with not only phone calls but also receive messages from the Gemini, and you can use it as a portable handset to take and make phone call.s
+
 ## Software
 
 ### Email
