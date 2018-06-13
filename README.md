@@ -22,7 +22,7 @@ Ctrl + T / ctrl + N	Open new tab / open N ew T ab <br/>
 Ctrl + W	Close the current tab / close W indow <br/>
 Ctrl + Tab	To the next tab / next T ab <br/>
 Ctrl + Shift + Tab	To previous tab / previous T ab <br/>
-Ctrl + 数字	Go to the nth tab from the left / go to N o. Tab <br/>
+Ctrl + Go to the nth tab from the left / go to N o. Tab <br/>
 Ctrl + L	Go to the address bar / go to L ocation bar <br/>
 Ctrl + R	Reload page / R eload page <br/>
 Ctrl + F	Search within the page / F ind word <br/>
