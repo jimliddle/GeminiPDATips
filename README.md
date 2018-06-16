@@ -6,7 +6,11 @@
 
 **Pebble 2 Watch** I use a Pebble 2 watch for notifications. It works great with the Gemini and also has apps that enable dial without opening the device etc. 
 
-**Sony SBH54 headset** Additionally the Sony [SBH54 bluetooth headset](https://www.amazon.co.uk/Sony-Stereo-Smart-Bluetooth-Headset-Black/dp/B0154G9CYY) (actually just calling it a headset does it an injustice). It provides a great way to recieve and interact with not only phone calls but also receive messages from the Gemini, and you can use it as a portable handset to take and make phone call.s
+**Sony SBH54 headset** Additionally the Sony [SBH54 bluetooth headset](https://www.amazon.co.uk/Sony-Stereo-Smart-Bluetooth-Headset-Black/dp/B0154G9CYY) (actually just calling it a headset does it an injustice). It provides a great way to recieve and interact with not only phone calls but also receive messages from the Gemini, and you can use it as a portable handset to take and make phone calls.
+
+### Brightness
+
+**High Brightness** I have been spolit with the Samsung Galaxy Note 8 and its extra high brightness in sunlight. The Gemini is not as good in direct sunlight but I found an App called [High Brightness Mode](https://play.google.com/store/apps/details?id=flar2.hbmwidget&hl=en_US) that triggers an extra high brightness mode that is built in to many phones. I tried it and it works well with the Gemini and it ups the nits.
 
 ## Software
 
@@ -44,3 +48,4 @@ Alt + →	Go to the next page / next page <br/>
 **Samsung Internet Browser** - Awesome simply for the night mode and the readability capability in the last release.
 
 **Microsoft Edge** - Another solid browser for Android with a good readability capability
+
