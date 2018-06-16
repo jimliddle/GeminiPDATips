@@ -49,3 +49,17 @@ Alt + →	Go to the next page / next page <br/>
 
 **Microsoft Edge** - Another solid browser for Android with a good readability capability
 
+### Note Taking Apps
+
+**Built in Gemini Note taking App** - Works well enough 
+
+**Google Keep** - works nicely and also works with the silver assists button for autoamted note taking. Say “Ok Google” to invoke Google Assistant. Now, ask it to “take notes”.[link](https://play.google.com/store/apps/details?id=com.google.android.keep)
+
+**IAWriter** - Works well and has good Markdown support. [link](https://play.google.com/store/apps/details?id=com.google.android.keep). 
+
+**QuickEdit** - A nice App. Good Syntax editing for code and has built in cloud supports, including FTP/FTPS/SFTP that plays nicely with the Storage Made Easy File Fabric.[link](https://play.google.com/store/apps/details?id=com.rhmsoft.edit)
+
+**SimpleNote** - One of the first Apps I install. Works nicely on the Gemini. [link](https://play.google.com/store/apps/details?id=com.automattic.simplenote)
+
+**Evernote** - Solid and works well in Landscape mode.[link](https://play.google.com/store/apps/details?id=com.evernote)
+
