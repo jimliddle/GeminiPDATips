@@ -20,6 +20,8 @@
 
 **BlackBerry Hub**- This works really well on the Hub, even in Lanscape mode. It does work with Key combinations like the K9 the overall experience is good. Emails are marked as read when read on other devices. Sent emails can be viewed in the Hub view and it also provide a single place to see interacitons from other social services.
 
+Keys that work as shortcuts in App include: **c** - compose;  **s** - Search; **n** Calendar view in-app if BlackBerry Calendar is installed
+
 ### Calendar
 
 **Default Calendar** - The default Calendar is really not nice and simply not fit for purpose on a device such as this
