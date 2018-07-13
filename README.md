@@ -77,3 +77,6 @@ Alt + →	Go to the next page / next page <br/>
 
 **Evernote** - Solid and works well in Landscape mode.[link](https://play.google.com/store/apps/details?id=com.evernote)
 
+### Notification Apps
+
+**GeminiLED** - Developed specfiically for the Gemini. Very cool App that changes the coloured state of the Notification LED's based on what App you assign (and what colour you assign to that App). [link](https://play.google.com/store/apps/details?id=harby.graham.geminiled)
