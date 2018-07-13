@@ -12,6 +12,8 @@
 
 **High Brightness** I have been spolit with the Samsung Galaxy Note 8 and its extra high brightness in sunlight. The Gemini is not as good in direct sunlight but I found an App called [High Brightness Mode](https://play.google.com/store/apps/details?id=flar2.hbmwidget&hl=en_US) that triggers an extra high brightness mode that is built in to many phones. I tried it and it works well with the Gemini and it ups the nits.
 
+Simiarily I find the automated brightness control all over the place, particularly with regards to dimming. Again there is an App that can solve this problem called [WellBrightness](https://play.google.com/store/apps/details?id=com.a30corner.wellbrightness_paid&hl=en_GB)
+
 ## Software
 
 ### Email
@@ -20,13 +22,23 @@
 
 **BlackBerry Hub**- This works really well on the Hub, even in Lanscape mode. It does work with Key combinations like the K9 the overall experience is good. Emails are marked as read when read on other devices. Sent emails can be viewed in the Hub view and it also provide a single place to see interacitons from other social services.
 
-Keys that work as shortcuts in App include: **c** - compose;  **s** - Search; **n** Calendar view in-app if BlackBerry Calendar is installed
+Keys that work as shortcuts in App include: 
+
+**c** - compose;  
+**s** - Search; 
+**r** - Reply;
+**a** - Reply all;
+**n** Calendar view in-app if BlackBerry Calendar is installed
 
 ### Calendar
 
 **Default Calendar** - The default Calendar is really not nice and simply not fit for purpose on a device such as this
 
 **aCalendar+** - Works really well in Landscape. The view reminds me of an old Palm Calendar called DateBk6 (this is actually available on Android in a different incarnation called Pimlical, but the user experience was not good). aCalendar works really well on the Gemini PDA and will more than suffice until Planet release their own dedicated App.
+
+**CalenGoo** - Looks decent but at this point I have not tried it
+
+**Gemini Agenda App** - Font resolution does not work well with  Big Font so I don't use it.
 
 ### Browser
 
