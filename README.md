@@ -24,10 +24,10 @@ Simiarily I find the automated brightness control all over the place, particular
 
 Keys that work as shortcuts in App include: 
 
-**c** - compose;  
-**s** - Search; 
-**r** - Reply;
-**a** - Reply all;
+**c** - compose; <br/> 
+**s** - Search; <br/> 
+**r** - Reply; <br/>
+**a** - Reply all; <br/>
 **n** Calendar view in-app if BlackBerry Calendar is installed
 
 ### Calendar
