@@ -89,6 +89,6 @@ Alt + →	Go to the next page / next page <br/>
 
 **Buttons Remapper** - [Buttons Remapper](https://play.google.com/store/apps/details?id=com.irishin.buttonsremapper) allows combination shortcuts when in other Apps to provide real mullti-tasking switching.
 
-###Printing
+### Printing
 
 **Let's Print Droid** - [Let's Print Droid](https://play.google.com/store/apps/details?id=com.irishin.buttonsremapper) scans the network to pick up printers that can be printed to
