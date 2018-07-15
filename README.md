@@ -84,3 +84,11 @@ Alt + →	Go to the next page / next page <br/>
 ### Notification Apps
 
 **GeminiLED** - Developed specfiically for the Gemini. Very cool App that changes the coloured state of the Notification LED's based on what App you assign (and what colour you assign to that App). [link](https://play.google.com/store/apps/details?id=harby.graham.geminiled)
+
+### Shortcut Apps
+
+**Buttons Remapper** - [Buttons Remapper](https://play.google.com/store/apps/details?id=com.irishin.buttonsremapper) allows combination shortcuts when in other Apps to provide real mullti-tasking switching.
+
+###Printing
+
+**Let's Print Droid** - [Let's Print Droid](https://play.google.com/store/apps/details?id=com.irishin.buttonsremapper) scans the network to pick up printers that can be printed to
