@@ -30,6 +30,10 @@ Keys that work as shortcuts in App include:
 **a** - Reply all; <br/>
 **n** Calendar view in-app if BlackBerry Calendar is installed
 
+### Launcher
+
+**BlackBerry Launcher** - I use the [BlackBerry Launcher](https://play.google.com/store/apps/details?id=com.blackberry.blackberrylauncher). It enables keys to be used to launch Apps but on single press and long press. Note however that you need use [Screen Rotation Control](https://play.google.com/store/apps/details?id=bong.android.androidlock) with it to ensure it works in Landacape mode. In fact you should use Screen Rotation Control anyway to force any Apps that won't work in landscape mode to work.
+
 ### Calendar
 
 **Default Calendar** - The default Calendar is really not nice and simply not fit for purpose on a device such as this
